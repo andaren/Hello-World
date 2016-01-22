@@ -85,13 +85,8 @@ public class yazServlet extends HttpServlet {
 		out.close();
 	}
 
-	/**
-	 * Initialization of the servlet. <br>
-	 *
-	 * @throws ServletException if an error occurs
-	 */
 	public void init() throws ServletException {
-		// Put your code here
+		System.out.println("测试添加");dd
 	}
 
 }
